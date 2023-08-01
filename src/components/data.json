@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "name":"ahmad",
+        "email":"ahmad@gmail",
+        "phone":"2456377878",
+        "branch":"CSE"
+        
+        },
+    {
+        "id":2,
+        "name":"ahmad",
+        "email":"ahmad@gmail",
+        "phone":"2456377878",
+        "branch":"ECE"
+    },
+    {
+        "id":3,
+        "name":"ahmad",
+        "email":"ahmad@gmail",
+        "phone":"2456377878",
+        "branch":"CIVIL"
+    }
+]

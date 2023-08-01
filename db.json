@@ -1,0 +1,99 @@
+{
+  "user": [
+    {
+      "id": "sankar",
+      "name": "tuugghjjk",
+      "password": "123456",
+      "email": "fhghgff",
+      "phone": "98765432",
+      "country": "",
+      "adress": "ghghjhj"
+    },
+    {
+      "id": "malli",
+      "name": "ghgfgfgf",
+      "password": "12345",
+      "email": "gfgfgf",
+      "phone": "98765432",
+      "country": "",
+      "adress": "ygyh"
+    },
+    {
+      "id": "123",
+      "name": "hjhjjkjk",
+      "password": "12345",
+      "email": "hjhjjhk",
+      "phone": "98765432",
+      "country": "",
+      "adress": "ghjhjh"
+    },
+    {
+      "id": "12345",
+      "name": "shfxffhs",
+      "password": "12345",
+      "email": "safadgd",
+      "phone": "sdfghgfs",
+      "country": "",
+      "adress": "fgfdd"
+    },
+    {
+      "id": "ewtweryr",
+      "name": "dgsgfd",
+      "password": "sankar",
+      "email": "sdgsdg",
+      "phone": "58678575",
+      "country": "",
+      "adress": "vghghuy8"
+    },
+    {
+      "id": "hi",
+      "name": "rytyuuy",
+      "password": "54321",
+      "email": "gfgfdfdf",
+      "phone": "0897856545434",
+      "country": "",
+      "adress": "ghjknnbvhfgddhg"
+    },
+    {
+      "id": "tommy",
+      "name": "rtrdttyutuu1",
+      "password": "123456",
+      "email": "dtdtfdtt",
+      "phone": "98765432321",
+      "country": "",
+      "adress": "trtftgrfy7"
+    },
+    {
+      "id": "samu",
+      "name": "trtrtrr",
+      "password": "54321",
+      "email": "yughuy",
+      "phone": "9876543456",
+      "country": "",
+      "adress": "fghyujgyytyt"
+    },
+    {
+      "id": "sam",
+      "name": "dfghjfjg",
+      "password": "54321",
+      "email": "tyuytyg",
+      "phone": "9876543333333334",
+      "country": "",
+      "adress": "vghbcvbc"
+    },
+    {
+      "id": "jam",
+      "name": "retrytuuiu",
+      "password": "654321",
+      "email": "ghghu",
+      "phone": "hghg",
+      "country": "",
+      "adress": "hgvgh"
+    }
+  ],
+  "Student-details":[
+    {
+      
+    }
+  ]
+}
